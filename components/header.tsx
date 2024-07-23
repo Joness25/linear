@@ -81,7 +81,7 @@ export const Header = () => {
           </nav>
         </div>
 
-        <div className="ml-auto flex h-full items-center">
+        <div className="hidden lg:flex ml-auto flex h-full items-center">
           <Link className="mr-6 text-sm" href="#">
             Log in
           </Link>
